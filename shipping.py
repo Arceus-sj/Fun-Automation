@@ -7,8 +7,6 @@
 
     Print the customers total basket cost (including shipping) to complete this exercise.
 
-    ===> You've redeemed a hint. Replace the X's with code to complete this exercise.
-
 """
 
 shipping_cost_per_kg = 1.20
